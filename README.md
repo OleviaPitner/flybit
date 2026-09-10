@@ -87,7 +87,7 @@ flowchart TD
 
 ```mermaid
 graph LR
-    Step1[1. 账户注册与订阅] --> Step2[2. 设备客户端配置] --> Step3[3. 节点选择与连通测试]`
+    Step1[1. 账户注册与订阅] --> Step2[2. 设备客户端配置] --> Step3[3. 节点选择与连通测试]
 ```
 
 1. **账户注册与订阅**：通过 [flybit 官网链接](https://yinxingren1.invisibleaff.com/#/register?code=Gcp1CRso) 完成注册，领取首页优惠券并购买合适套餐。
